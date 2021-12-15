@@ -1,6 +1,4 @@
-# Backend Personal
-
-#### Boilerplate repository for Lectrum Backend Personal.
+# RESTful API Node Server Boilerplate
 
 #### Перед запуском проекта:
 
